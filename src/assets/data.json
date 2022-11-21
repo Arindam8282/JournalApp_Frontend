@@ -1,0 +1,26 @@
+[
+  {
+    "name":"Some name",
+    "mail":"some@domain.com",
+    "contacts":[9876543210,908765432],
+    "address":"some address some address some address some address"
+  },
+  {
+    "name":"Some name1",
+    "mail":"some@domain.com",
+    "contacts":[9876543210,908765432],
+    "address":"some address some address some address some address"
+  },
+  {
+    "name":"Some name2",
+    "mail":"some@domain.com",
+    "contacts":[9876543210,908765432],
+    "address":"some address some address some address some address"
+  },
+  {
+    "name":"Some name3",
+    "mail":"some@domain.com",
+    "contacts":[9876543210,908765432],
+    "address":"some address some address some address some address"
+  }
+]

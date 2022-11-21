@@ -1,0 +1,21 @@
+.Header{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 500;
+}
+.h-upper-sec{
+  display: flex;
+  justify-content: center;
+}
+.j-wrapper > img{
+  height: 90px;
+  width: 250px;
+}
+.h-lower-sec{
+  padding: 20px;
+  /* padding-top: 0px; */
+}
